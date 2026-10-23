@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "jewelry:ruby"
+    },
+    "base": {
+        "item": "rogues:rogue_armor_chest"
+    },
+    "addition": {
+        "item": "minecraft:rabbit_hide"
+    },
+    "result": {
+        "id": "rogues:assassin_armor_chest"
+    }
+}

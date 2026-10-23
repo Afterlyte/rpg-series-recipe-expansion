@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "jewelry:tanzanite"
+    },
+    "base": {
+        "item": "wizards:wizard_robe_head"
+    },
+    "addition": {
+        "item": "minecraft:prismarine_shard"
+    },
+    "result": {
+        "id": "wizards:frost_robe_head"
+    }
+}

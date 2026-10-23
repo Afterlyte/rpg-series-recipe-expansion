@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "jewelry:citrine"
+    },
+    "base": {
+        "item": "paladins:holy_wand"
+    },
+    "addition": {
+        "item": "minecraft:diamond"
+    },
+    "result": {
+        "id": "paladins:diamond_holy_wand"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "jewelry:sapphire"
+    },
+    "base": {
+        "item": "paladins:iron_kite_shield"
+    },
+    "addition": {
+        "item": "minecraft:diamond"
+    },
+    "result": {
+        "id": "paladins:diamond_kite_shield"
+    }
+}

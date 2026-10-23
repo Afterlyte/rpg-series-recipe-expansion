@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "jewelry:tanzanite"
+    },
+    "base": {
+        "item": "wizards:staff_wizard"
+    },
+    "addition": {
+        "item": "minecraft:prismarine_crystals"
+    },
+    "result": {
+        "id": "wizards:staff_frost"
+    }
+}

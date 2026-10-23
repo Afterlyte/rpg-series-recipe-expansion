@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "jewelry:jade"
+    },
+    "base": {
+        "item": "archers:composite_longbow"
+    },
+    "addition": {
+        "item": "minecraft:diamond"
+    },
+    "result": {
+        "id": "archers:royal_longbow"
+    }
+}
