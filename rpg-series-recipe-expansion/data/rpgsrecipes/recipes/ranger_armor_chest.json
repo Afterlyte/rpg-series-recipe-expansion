@@ -7,21 +7,15 @@
         "item": "archers:archer_armor_chest"
     },
     "addition": {
-        "item": "minecraft:turtle_scute"
+        "item": "minecraft:scute"
     },
     "result": {
-        "id": "archers:ranger_armor_chest"
+        "item": "archers:ranger_armor_chest"
     },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",
             "values": ["archers"]
-        }
-    ],
-    "neoforge:conditions": [
-        {
-            "type": "neoforge:mod_loaded",
-            "modid": "archers"
         }
     ]
 }

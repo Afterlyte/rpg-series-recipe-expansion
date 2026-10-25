@@ -10,18 +10,12 @@
         "item": "minecraft:prismarine_shard"
     },
     "result": {
-        "id": "wizards:frost_robe_legs"
+        "item": "wizards:frost_robe_legs"
     },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",
             "values": ["wizards"]
-        }
-    ],
-    "neoforge:conditions": [
-        {
-            "type": "neoforge:mod_loaded",
-            "modid": "wizards"
         }
     ]
 }

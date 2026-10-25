@@ -10,18 +10,12 @@
         "item": "minecraft:prismarine_crystals"
     },
     "result": {
-        "id": "wizards:staff_frost"
+        "item": "wizards:staff_frost"
     },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",
             "values": ["wizards"]
-        }
-    ],
-    "neoforge:conditions": [
-        {
-            "type": "neoforge:mod_loaded",
-            "modid": "wizards"
         }
     ]
 }
