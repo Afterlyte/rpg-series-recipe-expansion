@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "jewelry:jade"
+    },
+    "base": {
+        "item": "archers:composite_longbow"
+    },
+    "addition": {
+        "item": "minecraft:diamond"
+    },
+    "result": {
+        "id": "archers:royal_longbow"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": ["archers"]
+        }
+    ],
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "archers"
+        }
+    ]
+}

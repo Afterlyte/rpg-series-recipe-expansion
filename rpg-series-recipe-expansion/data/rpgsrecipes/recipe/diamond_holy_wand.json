@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "jewelry:citrine"
+    },
+    "base": {
+        "item": "paladins:holy_wand"
+    },
+    "addition": {
+        "item": "minecraft:diamond"
+    },
+    "result": {
+        "id": "paladins:diamond_holy_wand"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": ["paladins"]
+        }
+    ],
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "paladins"
+        }
+    ]
+}

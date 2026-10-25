@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "jewelry:tanzanite"
+    },
+    "base": {
+        "item": "wizards:staff_wizard"
+    },
+    "addition": {
+        "item": "minecraft:prismarine_crystals"
+    },
+    "result": {
+        "id": "wizards:staff_frost"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": ["wizards"]
+        }
+    ],
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "wizards"
+        }
+    ]
+}
